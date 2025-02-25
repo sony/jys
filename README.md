@@ -4,7 +4,7 @@
   <img src="teaser.webp" width="250" alt="Alt text">
 </div>
 
-This repository houses the official PyTorch implementation of the paper titled "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models", which is presented at ICLR 2025. 
+This repository officially houses the official PyTorch implementation of the paper titled "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models", which is presented at ICLR 2025. 
 
 - [Arxiv](https://arxiv.org/abs/2410.07761)
 - [OpenReview](https://openreview.net/forum?id=pD6TiCpyDR)

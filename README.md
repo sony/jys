@@ -11,7 +11,8 @@ This repository officially houses the official PyTorch implementation of the pap
 
 Contacts:
 
-- Yonghyun Park: enkeejunior1@snu.ac.kr 
+- Yonghyun Park: enkeejunior1@snu.ac.kr
+- Chieh-Hsin Lai: chieh-hsin.lai@sony.com
 
 > **[Notice]** This repository contains all necessary code to reproduce the experimental results for countdown, CIFAR-10, and text experiments. However, this repository has been archived. For active development and support, please refer to the maintained repository at [JYS](https://github.com/enkeejunior1/jump-your-steps).
 
